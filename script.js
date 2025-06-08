@@ -1,4 +1,4 @@
-    const gifDuration = 4250;
+    const gifDuration = 4100;
 
     window.addEventListener('load', () => {
       setTimeout(() => {
